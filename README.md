@@ -22,7 +22,7 @@ A simple yet powerful GUI-based network sniffer that captures and displays live 
 - Threading  
 
 📸 Screenshot
-
+![Image](https://github.com/user-attachments/assets/76b8b885-0295-4507-ac26-1ee5264b8040)
 
 📚 What You Can Learn
 Basics of network protocols (IP, TCP, UDP, ICMP)
